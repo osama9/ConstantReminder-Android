@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Constant Reminder</string>
+
+    <string name="createReminder">Create Reminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="createReminderTitleHint">Title</string>
+    <string name="createReminderDescriptionHint">Description (Optional)</string>
+    <string name="save">Save</string>
+
+    <string-array name="reminder_types">
+        <item>15 minutes</item>
+        <item>1/2 hour</item>
+        <item>1 hour</item>
+        <item>1/2 day</item>
+        <item>1 day</item>
+    </string-array>
+    <string name="title_activity_show_activities">Constant Reminders</string>
+
+    <string name="currentReminders">Current Reminders:</string>
+</resources>
